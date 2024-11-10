@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "DS-Lab-Practice"
+    }
+  ],
+  "settings": {
+    "java.project.referencedLibraries": [
+      "lib/**/*.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx.base.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx.controls.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx.fxml.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx.graphics.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx.media.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx.swing.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx.web.jar",
+      "d:\\Softwares\\JavaFX-SDK\\lib\\javafx-swt.jar"
+    ]
+  }
+}
