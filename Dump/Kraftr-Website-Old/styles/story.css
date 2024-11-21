@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: League Spartan, sans-serif;
+}
+
+.content {
+	display: flex;
+	align-items: flex-start;
+	flex-wrap: wrap;
+}
+.content:nth-child(odd) {
+	flex-direction: row-reverse;
+}
+.content > div {
+	flex: 1 1 calc(992px / 2);
+}
+.img {
+	height: 100vh;
+	position: sticky;
+	top: 0;
+}
+.img img {
+	width: 90%;
+	height: 90%;
+	object-fit: cover;
+    border-radius: 22px;
+    margin: 5% 5%;
+}
+.text {
+	padding: 1.25rem;
+}
+.images {
+	display: grid;
+	grid-gap: 1rem;
+	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+
+}
+.images img {
+	width: 100%;
+	height: 180px;
+	object-fit: cover;
+    border-radius: 22px;
+}
+.title {
+	font-size: 3rem;
+	font-weight: 600;
+	margin-bottom: 1rem;
+}
+p {
+	margin-bottom: 1rem;
+}
+.sub-title {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+
+@media screen and (max-width: 991px) {
+	.img {
+		position: static;
+	}
+}

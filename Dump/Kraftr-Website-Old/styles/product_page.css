@@ -1,0 +1,152 @@
+/* Apply a transition effect to all elements */
+* {
+    transition: all 0.2s ease-in-out;
+}
+@keyframes zoomIn {
+    0% {
+        transform: scale(0);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Apply the animation to the card elements */
+.card {
+    animation: zoomIn 0.5s ease; /* Adjust the duration and timing function as needed */
+}
+
+/* Define CSS variables using :root */
+:root {
+    --bgcolor: #ffffff;
+    --fontcolor: #000000;
+    --glasscolor: #F1F0ED;
+    --lightglasscolor: #8484842f;
+}
+
+/* Apply smooth scroll behavior to the HTML element */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Base styles for the body */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--bgcolor);
+    color: var(--fontcolor);
+}
+
+/* Hidden element styles for animations */
+.hidden {
+    opacity: 0;
+    transition: all 1s 0.2s;
+    transform: scale(0.7);
+    filter: blur(10px);
+}
+
+/* Styles for the product section */
+.proudct_section {
+    padding: 40px;
+}
+
+/* Styles for the row */
+.proudct_section .row {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px; /* Adjust roundness as needed */
+    padding: 4%;
+}
+
+/* Styles for columns (cards) */
+.proudct_section .col {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px; /* Adjust roundness as needed */
+    padding: 4%;
+    margin: 2%;
+}
+
+/* Styles for the navigation bar */
+.navbar_section .navbar {
+    padding: 20px; /* Adjust padding as needed */
+    border-radius: 10px;
+}
+
+/* Increase the font size of the navbar links */
+.navbar_section .navbar-nav .nav-link {
+    font-size: 18px; /* Adjust font size as needed */
+}
+
+/* Button styles for product buttons */
+.button_product {
+    border-radius: 50px; /* Adjust roundness as needed */
+}
+
+/* Styles for the video container */
+.photo-container {
+    position: relative;
+}
+
+/* Styles for videos */
+.video1,
+.video2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Adjust aspect ratio as needed */
+    opacity: 0; /* Video is initially hidden */
+}
+
+/* Button styles for cards */
+.card .button_product {
+    background-color: #446074; /* Adjust button background color */
+    color: #FFFFFF; /* Adjust button text color */
+    border: none; /* Optional: Remove the button border */
+    border-radius: 35px; /* Adjust button roundness */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Add transition effect to background-color and color */
+}
+
+/* Button hover styles */
+.card .button_product:hover {
+    background-color: #19242B; /* Adjust hover background color */
+    color: #FFFFFF; /* Adjust hover text color */
+    border-radius: 35px; /* Adjust hover roundness */
+}
+
+/* Styles for card overlays */
+.card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Adjust overlay color */
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.photo-container:hover .card-overlay {
+    display: flex;
+    opacity: 2; 
+}
+
+/* Add spacing between columns on smaller screens (e.g., mobile) */
+@media (max-width: 768px) {
+    .proudct_section .row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .proudct_section .col {
+        width: calc(50% - 4%); /* Adjust the width and spacing as needed */
+        margin: 2%;
+    }
+}

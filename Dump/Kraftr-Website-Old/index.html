@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kraftr</title>
+  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="styles/util.css">
+  <script defer src="scripts/util.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+</head>
+
+<body>
+  <header>
+    <div class="navbar_section container-fluid">
+      <nav class="navbar navbar-expand-lg fixed-top" style="position: sticky;">
+        <div class="container-fluid">
+          <div class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" style="font-size: larger;" aria-current="page"
+                href="product_page.html">Product</a>
+            </li>
+          </div>
+          <a class="navbar-brand mx-auto" style="font-size: 50px;" href="index.html">Kraftr</a>
+          <div class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" style="font-size: larger;" aria-current="page" href="aboutus.html">About Us</a>
+            </li>
+          </div>
+
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <div class="videoContainer">
+    <!--width="100%" height="100%"-->
+    <video autoplay playsinline muted class="videoClass" src="sources/index/1234.mp4" id="myVideo"
+      aria-hidden="true"></video>
+    <div class="splashscreen  img"> <!--This is the div that keeps lights off-->
+    </div>
+  </div>
+  <div class="splashwindow center glass hidden top">
+    <div class="herotext fadeinleft">
+      We craft Fashion
+    </div>
+    <div class="bodytext fadeinright ">with a handcrafted touch</div>
+    <a href="/index.html#secondscreen"><img src="sources/downarrow.svg" alt="" class="fadeintop bounce">
+    </a>
+  </div>
+  <div class="secondscreen center" id="secondscreen">
+    <!--Transparent scrollable div that only contains the order button-->
+    <a href="orderonshopify"><button class="order  center roundedcorners glass grow hidden"
+        style="box-shadow: 0 2rem 3rem 0.75rem hsla(0, 0%, 0%, 0.25);">Launching Soon</button></a>
+  </div>
+
+  <div class="gallery centertext bodytext hidden">
+    <div class="imgbox hidden top"><a href="ProductDes.html"><button>Order Now</button></a></div>
+    <div class="imgbox hidden bottom"><a href="ProductDes.html"><button>Order Now</button></a></div>
+    <div class="imgbox hidden top"><a href="ProductDes.html"><button>Order Now</button></a></div>
+    <div class="imgbox hidden bottom"><a href="ProductDes.html"><button>Order Now</button></a></div>
+    <div class="imgbox hidden top"><a href="ProductDes.html"><button>Order Now</button></a></div>
+  </div>
+
+  <section class="container">
+    <div class="slider-wrapper">
+      <div class="slider">
+        <img id="slide-1" src="sources/shoeexplanation/soles.png" alt="3D rendering of an imaginary orange planet in space" />
+        <img id="slide-2" src="sources/shoeexplanation/laces.png" alt="3D rendering of an imaginary green planet in space" />
+        <img id="slide-3" src="sources/shoeexplanation/soles.png" alt="3D rendering of an imaginary blue planet in space" />
+      </div>
+      <div class="slider-nav">
+        <a href="#slide-1"></a>
+        <a href="#slide-2"></a>
+        <a href="#slide-3"></a>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
+      <div class="storyandteam" >
+
+        <div class="card hidden left roundedcorners" style="width: 18rem; 	box-shadow: 0 2rem 3rem 0.75rem hsla(0, 0%, 0%, 0.25);">
+          <img class="card-img-top hidden"
+            src="sources/index/IMG-20231024-WA0205.jpg"
+            alt="Card image cap">
+          <div class="card-body glass hidden" style="border-bottom-left-radius: 15px;">
+            <h5 class="card-title">Story</h5>
+            <p class="card-text">Kraftr is a journey of sustainable innovation, where a diverse team of artisans in Manipal transforms vintage surplus into exquisite, eco-conscious fashion.</p>
+            <a href="story.html" class="btn btn-primary">Take a Trip</a>
+          </div>
+        </div>
+        <div class="card hidden right" style="width: 18rem; 	box-shadow: 0 2rem 3rem 0.75rem hsla(0, 0%, 0%, 0.25);">
+          <img class="card-img-top hidden"
+            src="sources/index/IMG_9568.JPG"
+            alt="Card image cap">
+          <div class="card-body glass hidden">
+            <h5 class="card-title">The Kraftr Crew</h5>
+            <p class="card-text">A team of diverse and passionate individuals, hailing from various corners of India, has converged in the cultural melting pot of Manipal to form the heart and soul of Kraftr. The Kraftr Crew represents a harmonious fusion of artistry, craftsmanship, and an unwavering commitment to eco-consciousness. Together, they combine their unique talents and shared dedication to bring the vision of sustainable, handmade, and elegant fashion to life.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+
+      </div>
+      <!-- Footer -->
+      <footer class="text-center text-lg-start bg-light text-muted">
+
+        <!-- Section: Links  -->
+        <section class="">
+          <div class="container text-center text-md-start mt-5">
+            <!-- Grid row -->
+            <div class="row mt-3">
+              <!-- Grid column -->
+              <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                <!-- Content -->
+                <h6 class="text-uppercase fw-bold mb-4">
+                  <i class=" navbar-brand mx-auto" style="font-size: 50px;" >
+                  </i>Kraftr
+                </h6>
+                <p>
+Making a better future, one step at a time.
+                </p>
+              </div>
+              <!-- Grid column -->
+
+              <!-- Grid column -->
+              <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                <!-- Links -->
+                <h6 class="text-uppercase fw-bold mb-4">
+                  Products
+                </h6>
+                <p>
+                  <a href="#!" class="text-reset">Kraftr Blues</a>
+                </p>
+                <p>
+                  <a href="#!" class="text-reset">Kraftr Yellows</a>
+                </p>
+                <p>
+                  <a href="#!" class="text-reset">Kraftr Reds</a>
+                </p>
+                <p>
+                  <a href="#!" class="text-reset">Kraftr greens</a>
+                </p>
+              </div>
+              <!-- Grid column -->
+
+              <!-- Grid column -->
+              <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+                <!-- Links -->
+                <h6 class="text-uppercase fw-bold mb-4">
+                  Useful links
+                </h6>
+                <p>
+                  <a href="aboutus.html" class="text-reset">Who we are</a>
+                </p>
+                <p>
+                  <a href="#!" class="text-reset">What We do</a>
+                </p>
+                <p>
+                  <a href="#!" class="text-reset">Who does it?</a>
+                </p>
+                <p>
+                  <a href="#!" class="text-reset">Help</a>
+                </p>
+              </div>
+              <!-- Grid column -->
+
+              <!-- Grid column -->
+              <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+                <!-- Links -->
+                <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
+                <p><i class="fas fa-home me-3"></i>AB4, Manipal Institute of Technology, Manipal - 576104</p>
+                <p>
+                  <i class="fas fa-envelope me-3"></i>
+                  contact@kraftrlyfstyle.com
+                </p>
+                <p><i class="fas fa-phone me-3"></i> +91 98290 23976 </p>
+                <p><i class="fas fa-print me-3"></i> +91 82730 36616</p>
+              </div>
+              <!-- Grid column -->
+            </div>
+            <!-- Grid row -->
+          </div>
+        </section>
+        <!-- Section: Links  -->
+      </footer>
+      <!-- Footer -->
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+      <script src="scripts/index.js"></script>
+</body>
+
+</html>
