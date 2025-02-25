@@ -45,6 +45,26 @@ def maze_solve(graph, start, end, visited = [], result = []):
     maze_solve(graph, neighbour, end, visited, result)
   result.pop(-1)
 
+def is_bi(graph):
+  n = len(graph)
+  color = [-1] * n
+  
+  def dfs(node, c):
+    color[node] = c
+    for neighbour in graph[node]:
+      if color[neighbour] == -1:
+        if not dfs(neighbour, c):
+          return False
+      elif color[neighbour] == color[node]:
+        return False
+    return True
+  
+  for i in range(i):
+    if color[i] == -1:
+      if not dfs(i, 0):
+        return False
+  return True
+
 print(dfs({5: [0, 2], 4: [0, 1], 2: [3], 3: [1], 0: [], 1:[]}, 5))
 print(dfs_topo({5: [0, 2], 4: [0, 1], 2: [3], 3: [1], 0: [], 1:[]}))
 print(detect_cycle({2: [0, 3], 0: [2, 1], 1: [2], 3: [3]}, 2))
