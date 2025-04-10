@@ -1,8 +1,8 @@
 - [x] BFS
 - [x] 9Q using BFS
-- [ ] 8P using BFS
+- [x] 8P using BFS
 - [x] Water Jug using BFS
 - [x] 9Q using Hill Climb
-- [ ] 8P Using Hill Climb
+- [x] 8P Using Hill Climb
 - [x] Water Jug using Hill Climb
 - [ ] Crypt Arithmetic
