@@ -152,147 +152,97 @@
 
 <svelte:head>
 	<title>Digit Recognition</title>
-	<link href="https://fonts.googleapis.com/css?family=Niconne" rel="stylesheet" />
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide" />
-	<link
-		href="https://fonts.googleapis.com/css?family=Calistoga|Josefin+Sans:400,700|Pacifico&display=swap"
-		rel="stylesheet"
-	/>
-	<link
-		rel="stylesheet"
-		href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-	/>
+	<script src="https://cdn.tailwindcss.com"></script>
 </svelte:head>
 
-<div class="sketchpadapp container">
-	<div class="row justify-content-md-center">
-		<section id="title">
-			<h1 class="heading">Handwritten <span class="heading-sp">Digit Recognition</span></h1>
-		</section>
+<div class="min-h-screen bg-slate-100 py-8 px-4">
+	<div class="max-w-4xl mx-auto">
+		<!-- Header -->
+		<div class="text-center mb-6">
+			<h1 class="text-3xl font-semibold text-slate-800">
+				Handwritten <span class="text-blue-600">Digit Recognition</span>
+			</h1>
+			<p class="text-slate-500 mt-2">Draw a digit (0-9) and let the AI predict it</p>
+		</div>
+
+		<!-- Main Content -->
+		<div class="bg-white rounded-lg shadow-md p-6">
+			<div class="flex flex-col lg:flex-row gap-6">
+				<!-- Canvas Section -->
+				<div class="flex-1">
+					<div class="flex flex-col items-center">
+						<canvas
+							bind:this={canvas}
+							id="sketchpad"
+							height="280"
+							width="280"
+							class="border-2 border-slate-300 rounded-md shadow-sm bg-black"
+							on:mousedown={handleMouseDown}
+							on:mousemove={handleMouseMove}
+							on:mouseup={handleMouseUp}
+							on:touchstart={handleTouchStart}
+							on:touchmove={handleTouchMove}
+							on:touchend={handleMouseUp}
+						></canvas>
+						<div class="mt-4 flex space-x-3">
+							<button 
+								type="button" 
+								class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded text-sm transition-colors duration-200"
+								on:click={clearCanvas}
+							>
+								Clear Canvas
+							</button>
+						</div>
+					</div>
+				</div>
+
+				<!-- Predictions Column -->
+				<div class="flex-1">
+					<div class="mb-4">
+						<h2 class="text-lg font-medium text-slate-700 mb-2">Prediction Scores</h2>
+						<div class="bg-slate-50 rounded border border-slate-200">
+							<div class="grid grid-cols-5 gap-1 p-2">
+								{#each Array(10) as _, i}
+									<div class={`text-center rounded py-1 ${maxIndex === i ? 'bg-blue-100 border border-blue-300' : ''}`}>
+										<div class="text-lg font-medium text-slate-800">{i}</div>
+										<div class="text-xs text-slate-500">{predictions[i] ? predictions[i].toFixed(2) : '0.00'}</div>
+									</div>
+								{/each}
+							</div>
+						</div>
+					</div>
+
+					{#if isResultDivPresent}
+						<div class="mt-6 bg-slate-50 rounded-md p-4 border border-slate-200">
+							<div class="flex justify-between items-center">
+								<div>
+									<div class="text-sm text-slate-500">Prediction</div>
+									<div class="text-3xl font-bold text-blue-600">{maxIndex}</div>
+								</div>
+								<div>
+									<div class="text-sm text-slate-500">Confidence</div>
+									<div class="text-3xl font-bold text-blue-600">{confidence}%</div>
+								</div>
+							</div>
+							<div class="w-full bg-slate-200 rounded-full h-2 mt-4">
+								<div class="bg-blue-600 h-2 rounded-full" style="width: {confidence}%"></div>
+							</div>
+						</div>
+					{/if}
+
+					<div class="mt-6">
+						<h3 class="text-lg font-medium text-slate-700 mb-2">How It Works</h3>
+						<p class="text-sm text-slate-600">
+							This application uses a trained neural network to recognize handwritten digits. Draw a number from 0-9 on the canvas, and the model will predict which digit you've drawn.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Footer -->
+		<div class="mt-6 text-center text-slate-500 text-xs">
+			<p></p>
+		</div>
 	</div>
-
-	<div class="row">
-		<div class="col-lg-6 col-md-6 col-sm-12">
-			<canvas
-				bind:this={canvas}
-				id="sketchpad"
-				height="350"
-				width="350"
-				on:mousedown={handleMouseDown}
-				on:mousemove={handleMouseMove}
-				on:mouseup={handleMouseUp}
-				on:touchstart={handleTouchStart}
-				on:touchmove={handleTouchMove}
-				on:touchend={handleMouseUp}
-			></canvas>
-			<div class="buttons_div">
-				<button type="button" class="btn btn-warning" on:click={clearCanvas}
-					>&nbsp Clear &nbsp</button
-				>
-			</div>
-		</div>
-
-		<div class="col-lg-6 col-md-6 col-sm-12">
-			<table class="table-sm table-striped table-borderless table">
-				<thead>
-					<tr>
-						<th scope="col">Digit</th>
-						<th scope="col">Score</th>
-					</tr>
-				</thead>
-				<tbody>
-					{#each Array(10) as _, i}
-						<tr>
-							<th class={maxIndex === i ? 'answer' : ''}>{i}</th>
-							<td class={maxIndex === i ? 'answer' : ''}>
-								{predictions[i] ? predictions[i].toFixed(2) : ''}
-							</td>
-						</tr>
-					{/each}
-				</tbody>
-			</table>
-		</div>
-	</div>
-
-	{#if isResultDivPresent}
-		<div class="row" id="result">
-			<div class="col-lg-6 col-md-6 col-sm-12">
-				<h2 id="prediction_heading" class="prediction">
-					Prediction:
-					<span class="score">{maxIndex}</span>
-				</h2>
-			</div>
-			<div class="col-lg-6 col-md-6 col-sm-12">
-				<h2 id="confidence" class="prediction">
-					Confidence:
-					<span class="score">{confidence}%</span>
-				</h2>
-			</div>
-		</div>
-	{/if}
 </div>
-
-<style>
-	.prediction {
-		font-family: 'Josefin Sans', sans-serif;
-		margin-top: 7.5%;
-	}
-	.score {
-		color: #4caf50;
-		font-weight: bold;
-	}
-	.answer {
-		background-color: #4caf50;
-		font-weight: bold;
-	}
-	#confidence {
-		font-family: 'Josefin Sans', sans-serif;
-		margin-top: 7.5%;
-	}
-	#result {
-		font-family: 'Pacifico', cursive;
-		font-size: 5rem;
-	}
-	#sketchpad {
-		border: 2px solid #888;
-		border-radius: 4px;
-	}
-	#title {
-		padding: 1.5% 15%;
-		margin: 0 auto;
-		text-align: center;
-	}
-	:global(body) {
-		overflow: hidden;
-	}
-	.buttons_div {
-		margin-top: 10px;
-	}
-	.heading {
-		width: 50vw;
-		text-align: center;
-		position: relative;
-		color: white;
-		background-color: #6871b1;
-		padding-top: 1%;
-		padding-bottom: 1%;
-		font-family: 'Audiowide', sans-serif;
-	}
-	.heading-sp {
-		color: yellow;
-	}
-	:global(table.result > tbody > tr:nth-child(odd)) {
-		background-color: mistyrose;
-	}
-	:global(table.result > tbody > tr:first-child) {
-		background-color: white;
-	}
-	:global(table.result > tbody > tr > td) {
-		border-radius: 0;
-	}
-	:global(table th, td) {
-		border: none;
-		padding: 5px;
-		text-align: center;
-	}
-</style>
