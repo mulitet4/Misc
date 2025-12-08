@@ -1,0 +1,17 @@
+{
+  "primary_model": "MultilayerPerceptron",
+  "mlp_accuracy": 0.9784810126582278,
+  "rf_accuracy": 0.36455696202531646,
+  "best_model": "Multilayer Perceptron",
+  "feature_dimensions": 1950,
+  "num_classes": 7,
+  "emotion_labels": [
+    "neutral",
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "sad",
+    "surprise"
+  ]
+}

@@ -1,0 +1,11 @@
+# Essential packages only - install individually if needed
+fastapi
+uvicorn
+python-multipart
+tensorflow
+librosa
+numpy
+scipy
+scikit-learn
+joblib
+soundfile

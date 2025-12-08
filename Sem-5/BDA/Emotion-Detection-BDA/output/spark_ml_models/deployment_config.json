@@ -1,0 +1,11 @@
+{
+  "pipeline_path": "./output/spark_ml_models/complete_emotion_pipeline",
+  "primary_algorithm": "MultilayerPerceptron",
+  "input_format": "audio_files",
+  "output_format": "emotion_predictions",
+  "cluster_requirements": {
+    "min_executors": 4,
+    "executor_memory": "4g",
+    "executor_cores": 2
+  }
+}
