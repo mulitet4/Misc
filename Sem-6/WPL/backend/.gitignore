@@ -1,0 +1,19 @@
+# Backend
+
+venv/
+env/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+db.sqlite3
+db.sqlite3-journal
+*.log
+local_settings.py
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.DS_Store

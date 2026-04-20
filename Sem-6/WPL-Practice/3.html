@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    #fontText {
+      margin-top: 50px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <form class="container col-md-4 row">
+    <h3>What's India's Capital?</h3>
+    <input class="form-control" type="text" name="answer">
+    <button onclick="checkQuiz(this.form)" class="btn btn-primary">Submit answers</button>
+  </form>
+  <div class="row col-md-12" id="class">TBD</div>
+  <script>
+    function checkQuiz(form) {
+      if (form.answer.value == "Delhi") {
+        alert("Correct!");
+        document.getElementById("class").innerText = "hi"
+      } else {
+        alert("Execution in 5 seconds")
+      }
+    }
+  </script>
+
+  <div class="container">
+    <h1>Welcome</h1>
+    <div class="greeting" id="greeting"></div>
+    <div class="clock" id="clock"></div>
+  </div>
+
+  <script>
+    function updateClock() {
+      const now = new Date();
+      const hours = String(now.getHours()).padStart(2, '0');
+      const mins = String(now.getMinutes()).padStart(2, '0');
+      const secs = String(now.getSeconds()).padStart(2, '0');
+      document.getElementById("clock").textContent = `${hours}:${mins}:${secs}`;
+    }
+
+    function greetUser() {
+      const hour = new Date().getHours();
+      let greeting = "";
+
+      if (hour < 12) greeting = "Good Morning! ☀️";
+      else if (hour < 18) greeting = "Good Afternoon! 🌤️";
+      else greeting = "Good Evening! 🌙";
+
+      document.getElementById("greeting").textContent = greeting;
+      alert(greeting);
+    }
+
+    updateClock();
+    greetUser();
+    setInterval(updateClock, 1000);
+  </script>
+
+  <div class="container" style="margin-top: 30px;">
+    <h3>Pick a Color:</h3>
+
+    <label>
+      <input type="radio" name="color" value="red" onchange="changeColor('red')"> Red
+    </label>
+    <label>
+      <input type="radio" name="color" value="blue" onchange="changeColor('blue')"> Blue
+    </label>
+    <label>
+      <input type="radio" name="color" value="green" onchange="changeColor('green')"> Green
+    </label>
+
+    <div class="color-box" id="box" style="background-color: gray;">hello</div>
+  </div>
+
+  <script>
+    function changeColor(color) {
+      document.getElementById("box").style.backgroundColor = color;
+    }
+  </script>
+
+  <div id="fontText"></div>
+
+  <script>
+    let fontSize = 5;
+    let increasing = true;
+    const textElement = document.getElementById("fontText");
+
+    setInterval(() => {
+      if (increasing) {
+        // Increasing phase
+        fontSize++;
+        textElement.textContent = "FONT+++";
+        textElement.style.color = "red";
+        textElement.style.fontSize = fontSize + "pt";
+
+        // Switch to decreasing at 40pt
+        if (fontSize >= 40) {
+          increasing = false;
+        }
+      } else {
+        // Decreasing phase
+        fontSize--;
+        textElement.textContent = "FONT---";
+        textElement.style.color = "blue";
+        textElement.style.fontSize = fontSize + "pt";
+
+        // Reset when reaches 5pt
+        if (fontSize <= 5) {
+          increasing = true;
+        }
+      }
+    }, 200);
+  </script>
+</body>
+
+</html>

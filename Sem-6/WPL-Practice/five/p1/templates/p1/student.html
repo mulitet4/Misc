@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <form method="POST">
+    {% csrf_token %}
+    <label>name:</label>
+    <input type="text" name="name" required>
+    <label>marks:</label>
+    <input type="number" name="marks" required>
+    <button type="submit">Submit</button>
+  </form>
+  <h2>Records</h2>
+  <textarea name="" id="">{% for student in students %}{{student}}{% endfor %}</textarea>
+</body>
+
+</html>

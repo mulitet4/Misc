@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>1.html</title>
+</head>
+
+<body>
+  hello
+  <canvas id="first" height="200" width="200">no support lol</canvas>
+  <script>
+    let c = document.getElementById("first");
+    let ctx = c.getContext("2d");
+    ctx.beginPath();
+    ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+    ctx.stroke()
+  </script>
+  <form action="">
+    <input type="text">
+    <input type="radio">
+  </form>
+  <h1>Beautiful fucking poem</h1>
+  <p>I hate fucking <b>poems</b></p>
+  <p>Mom's spaghetti <b>poems</b></p>
+
+  <h2>Here's a fucking ordered and unordered list, happy?</h2>
+  <ul>
+    <li>Lol cars</li>
+    <li>Eat shit</li>
+  </ul>
+  <ol>
+    <li>Wow this is great</li>
+    <li>Wow this is super</li>
+  </ol>
+
+  <table>
+    <tr>
+      <th>Country</th>
+      <th colspan="2">Population (in crores)</th>
+    </tr>
+    <tbody>
+      <tr>
+        <td rowspan="3">India</td>
+        <td>1998</td>
+        <td>85</td>
+      </tr>
+      <tr>
+        <td>1999</td>
+        <td>90</td>
+      </tr>
+      <tr>
+        <td>2000</td>
+        <td>100</td>
+      </tr>
+      <tr>
+        <td rowspan="3">India</td>
+        <td>1998</td>
+        <td>85</td>
+      </tr>
+      <tr>
+        <td>1999</td>
+        <td>90</td>
+      </tr>
+      <tr>
+        <td>2000</td>
+        <td>100</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.0
+python-dotenv==1.0.0
+pycparser==2.21
+javalang==0.13.0
+tree-sitter==0.21.3
+tree-sitter-cpp==0.22.0
+tree-sitter-c==0.21.0
