@@ -1,0 +1,1171 @@
+=== PAGE 1 ===
+Marketing in a Digital World
+Module 4: Price
+Complete Detailed Course Notes
+Gies College of Business
+University of Illinois Urbana-Champaign
+
+=== PAGE 2 ===
+Contents
+1 Module 4 Overview 3
+Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Goals and Objectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Guiding Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Key Phrases/Concepts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1.1 Module 4 Readings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2 Price Overview 6
+2.1 Price Overview Lecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.2 Street Interviews: Price . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+3 Pay What You Want (Part 1) 10
+3.1 Pay What You Want Part 1 Lecture . . . . . . . . . . . . . . . . . . . . 10
+3.2 Denition of Pay What You Want . . . . . . . . . . . . . . . . . . . . . . 11
+3.3 Deeper Dive: Three Key Issues . . . . . . . . . . . . . . . . . . . . . . . 11
+4 Pay What You Want (Part 2) 13
+4.1 Pay What You Want Part 2 Lecture . . . . . . . . . . . . . . . . . . . . 13
+4.2 Four Practical Recommendations for PWYW . . . . . . . . . . . . . . . 14
+5 Case Study: Panera 16
+5.1 Case Study: Panera Lecture . . . . . . . . . . . . . . . . . . . . . . . . . 16
+5.2 Three Key Takeaways . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+5.3 Case Study Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+6 Freemium (Part 1) 19
+6.1 Freemium Part 1 Lecture . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+6.2 Examples of Freemium . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+6.3 Denition of Freemium . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+6.4 Deeper Dive: Three Key Observations . . . . . . . . . . . . . . . . . . . 21
+7 Freemium (Part 2) 23
+7.1 Freemium Part 2 Lecture . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+7.2 Four Practical Recommendations for Freemium . . . . . . . . . . . . . . 24
+1
+
+=== PAGE 3 ===
+CONTENTS 2
+8 Exercise: It's Full of Sparks 26
+8.1 Exercise: It's Full of Sparks Lecture . . . . . . . . . . . . . . . . . . . . . 26
+8.2 Exercise Instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+8.3 It's Full of Sparks Assignment Example . . . . . . . . . . . . . . . . . . . 27
+9 Interview with Cody Burch 29
+9.1 Interview: Cody Burch on Pay What You Want . . . . . . . . . . . . . . 29
+10 Course Farewell 33
+10.1 Course Farewell Lecture . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+11 Quiz Questions and Answers 34
+11.1 Quiz: Price Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+11.2 Quiz: Pay What You Want . . . . . . . . . . . . . . . . . . . . . . . . . 34
+11.3 Quiz: Freemium . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+11.4 Quiz: It's Full of Sparks Exercise . . . . . . . . . . . . . . . . . . . . . . 35
+11.5 Module 4 Comprehensive Quiz . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+=== PAGE 4 ===
+Module 4 Overview
+Overview
+How has the digital revolution altered the way products are priced? In this module, you
+will learn how new digital tools are enabling customers to take a more active role in
+setting the prices they pay for the products they buy. After introducing the notion of
+price and how this aspect of the marketing mix is changing, we will explore how University
+of Illinois students use digital tools to obtain lower prices for the things they buy. We will
+then examine emerging digital concepts: Pay What You Want (PWYW) and Freemium
+pricing strategies.
+In addition to learning about these concepts, you will also have the opportunity to
+apply them through a hands-on exercise (It's Full of Sparks) [Honors Assignment] and a
+real-world case study (Panera). As a result of these various learning activities, you will
+develop a deep understanding of how digital tools are transforming the pricing landscape.
+Goals and Objectives
+ Understand the pricing aspect of the marketing mix.
+ Appreciate how digital tools are changing how products are priced.
+ Learn about the Freemium model and how this pricing strategy works.
+ Learn what Pay What You Want (PWYW) is and how this pricing strategy works.
+ Analyze a real-world case that employs a PWYW pricing strategy.
+ Engage in a hands-on exercise in which you can experience the Freemium model
+[Honors Assignment].
+Guiding Questions
+ What is the Pay What You Want (PWYW) pricing strategy, and how does it work?
+ What is the Freemium model, and how does it work?
+ How are new digital tools changing the way rms price their products and how
+consumers evaluate prices?
+3
+
+=== PAGE 5 ===
+1.1. MODULE 4 READINGS 4
+Key Phrases/Concepts
+Price strategy, Price segmentation, Pay What You Want, Freemium
+1.1 Module 4 Readings
+Required Reading
+ Gu, X., Kannan, P. K., & Ma, L. (2019). How companies can get the most out of
+a freemium business model. Harvard Business Review .
+ Bennet, T. (2023), What is Pay What You Want Pricing? Priceva. https://
+priceva.com/blog/pay-what-you-want-pricing
+Academic Insights
+ Deng, Y., Lambrecht, A., & Liu, Y. (2023). Spillover Eects and Freemium Strategy
+in the Mobile App Market. Management Science , 69(9), 5018-5041.
+ Boudreau, K. J., Jeppesen, L. B., & Miric, M. (2022). Competing on Freemium:
+Digital competition with Network Eects. Strategic Management Journal , 43(7),
+1374-1401.
+ Kim, J. Y., Natter, M., & Spann, M. (2009). Pay What You Want: A New Partic-
+ipative Pricing Mechanism. Journal of Marketing , 73(1), 44-58.
+ Lu, S., Yao, D., Chen, X., & Grewal, R. (2021). Do Larger Audiences Generate
+Greater Revenues Under Pay What You Want? Evidence From a Live Streaming
+Platform. Marketing Science , 40(5), 964-984.
+Additional Readings
+ Gerpott, T. (2017). Pay-what-you-want pricing: An integrative review of the em-
+pirical research literature. Management Science Letters , 7(1), 35-62.
+ Hamari, J., Hanner, N., & Koivisto, J. (2019). Why pay premium in freemium
+services? A study on perceived value, continued use and purchase intentions in
+free-to-play games. International Journal of Information Management .
+ Kalb, I. (2013, October 2). Three ways companies decide the price of a product.
+Business Insider .
+ Niemand, T., Mai, R., & Kraus, S. (2019). The zero-price eect in freemium busi-
+ness models: The moderating eects of free mentality and pricequality inference.
+Psychology & Marketing , 36(8), 773-790.
+
+=== PAGE 6 ===
+1.1. MODULE 4 READINGS 5
+ Tuttle, B. (2014, November 11). A brief history of `Pay what you want' businesses.
+Money .
+ Viglia, G., Maras, M., Schumann, J., & Navarro-Martinez, D. (2019). Paying before
+or paying after? Timing and uncertainty in pay-what-you-want pricing. Journal of
+Service Research , 22(3), 272-284.
+ Weisstein, F. L., Kukar-Kinney, M., & Monroe, K. B. (2016). Determinants of
+consumers' response to pay-what-you-want pricing strategy on the Internet. Journal
+of Business Research , 69(10), 4313-4320.
+
+=== PAGE 7 ===
+Price Overview
+2.1 Price Overview Lecture
+[Lecture: Price Overview  Full Transcript]
+Speaker: Steve
+The last of the four P's is price, this aspect of the marketing mix focuses on the
+amount a customer pays to acquire a product or service. Price is dierent from the other
+three elements of the marketing, product, promotion and placement. These rst three
+elements create value for a customer, while price captures this value for the rm. Thus,
+having a good pricing strategy is critical for a rm's protability and perhaps is very
+survival. The development of a pricing strategy is a complex decision and often entails
+considering a product's cost of production, what customers are willing to pay, and the
+prices of competing products.
+For example, coke has traditionally employed a value focused pricing strategy in order
+to ensure that this product is aordable to a mass market. Over the years, it has also
+had intense competitive pressure from Pepsi, this coke has also tried to match the price
+of this competitor. Today, a bottle or can of coke is typically just a dollar or two in the
+US and perhaps even less than that in many other countries, so this product is quite
+aordable to most consumers.
+The price portion of the marketing mix has a number of key concepts, including
+breakeven analysis, price elasticity and reference pricing. In this module, we'll focus on
+two fundamental concepts, pricing strategy by rms and price knowledge among cus-
+tomers, let's rst talk about pricing strategy.
+A pricing strategy is a rm's basic approach to how it prices its products, rms can
+employ a broad range of dierent pricing strategies. Three of the most common strate-
+gies are cost based pricing, competitor-based pricing, and value based pricing. Cost-based
+pricing is a technique in which the price of a product is based upon the cost of manu-
+facturing or acquiring the product, plus a commonly accepted markup percentage. For
+example, in the US, most car dealers price cars at their invoice price plus a margin of 5
+to 10%.
+Competitor-based pricing is a strategy in which the price of a product is based upon
+closely matching the prices of key competitors. For example, the price of gasoline is
+lowered by one gas station, nearby stations will typically lower their price to match the
+6
+
+=== PAGE 8 ===
+2.1. PRICE OVER VIEW LECTURE 7
+competitor. Value-based pricing is a strategy that focuses on the added value a product
+delivers to its customers. For example, a cold soda on a hot day during a sporting event
+is priced higher and provides more value than a soda sitting on a store half a mile down
+the road.
+Now, let's take a look at price knowledge. Knowledge about prices is important
+because this knowledge helps set price expectations and also gives customers more power
+in the marketplace, after all, knowledge is power. Academic research on this topic suggests
+that for many product categories, consumers have a low level of price knowledge. For
+example, one famous study in this domain found that fewer than half of supermarket
+shoppers knew the price of items they placed in their shopping carts.
+Subsequent research has found that although consumers don't have very accurate
+recall of exact prices in their short term memory, they have pretty good recognition of
+approximate price ranges in their long term memory. In other words, although most
+consumers can't say how much something cost when asked to name its price, when they
+see a price for a product, they can tell if that price is close to the one they're used to
+seeing.
+For most products we purchase, the price is set by the rm that either makes it or
+sells it, we often don't know the price until we see it on the shelf. For example, I bought
+this bottle of coke at my local grocery store for the price of $1.99. I didn't know the
+exact price until I entered the store, and this price certainly wasn't negotiable.
+This xed, rm-centered approach is starting to break down due to the rise of digital
+tools, the price that we pay for something is increasingly under our control. The digital
+revolution allows consumers to get lots of things for free and often choose the price that
+ts them best.
+A good example of this is information, for most of human history, information was
+dicult to obtain and also quite expensive. For example, when I was young, there were
+door to door encyclopedia salespeople who had charged thousands of dollars for a set
+of books that contained what seemed like at that time, all the knowledge in the world.
+Now, thanks to the digital revolution, all of us have access to unlimited information for
+free, perhaps you're even viewing this video for free.
+Overall, the rise of digital tools has made it possible to get lots of things that are either
+free or quite inexpensive. For example, as we discussed in the prior module, Thingiverse
+allows anyone in the world to download millions of dierent digital designs that can be
+transformed into physical products for free.
+Also, if you have a smartphone or a tablet, you probably downloaded an app that
+was free but oered an opportunity to gain access to added features for a low price.
+This business model is commonly referred to as a freemium. In sum, in this new digital
+marketing environment, we are moving from xed prices to exible prices. In this module,
+we discuss how new digital tools are changing this element of the marketing mix and
+
+=== PAGE 9 ===
+2.2. STREET INTER VIEWS: PRICE 8
+altering how we think about price.
+2.2 Street Interviews: Price
+[Lecture: Price  Street Interviews Transcript]
+Location: University of Illinois Quadrangle
+Interviewer: Have you heard of the concept pay what you want?
+Student 1: I mean, it's just paying however much you would pay for the product.
+Student 2: I think I've heard of it, I've never used it.
+Student 3: No.
+Student 4: Yeah, more recently, so, the pay what you want, yeah, I would say it's a
+very odd concept to us here in the United States.
+Student 5: Is it possible? [LAUGH]
+Interviewer: Do you like the idea?
+Student 6: Yeah.
+Student 7: Yeah?
+Student 8: Yes.
+Student 9: I've not heard. I heard pay what you need, but not pay what you want.
+Interviewer: Okay.
+Student 10: No, only now.
+Interviewer: Okay, so that concept is you engage with a product or service, you get
+it for them, let's say a burger, but then you determine how much you wanna pay.
+Student 10: Okay.
+Interviewer: Including nothing.
+Student 10: That's good.
+Interviewer: Have you ever experienced anything like that?
+Student 10: No.
+Interviewer: Okay.
+Student 10: Never, never.
+Interviewer: Are you familiar with the concept freemium?
+Student 11: You mean premium? Freemium. No.
+Student 12: No.
+Student 13: No, no, no.
+Interviewer: You know what freemium is? Have you heard of the concept freemium?
+Student 14: No. Freemium, no.
+Interviewer: Okay, so, freemium is this concept where you engage with a product
+or service, like an online game, for free, but then if you want to advance or get more out
+of it, you actually have to pay for something.
+Student 15: I mean, I do like the free levels of Canva and stu like that.
+
+=== PAGE 10 ===
+2.2. STREET INTER VIEWS: PRICE 9
+Interviewer: Yeah, perfect.
+Student 16: I play some games every once in a while, so the freemium model is
+something I'm very familiar with.
+Student 17: As far as, again, social media is like that as well, everything's got its
+own, free to use at rst, and then in-app purchases and stu like that come o from there.
+Interviewer: Yeah, okay.
+Student 18: I do have a workout app that the rst seven days were free...
+Interviewer: There you go.
+Student 18: And then you have to pay.
+Interviewer: Perfect. So, yes. Did you pay for it?
+Student 18: Yes, I did.
+Interviewer: Was it worth it?
+Student 18: Yes, it was, [LAUGH] keeps me on track.
+Interviewer: Amazon have some special membership, I think.
+Student 19: Absolutely. Prime, Amazon Prime.
+Student 19: Prime, yes. Are you a prime member?
+Student 20: No, [LAUGH] no, I'm not. I'm a member by mistake, I pressed the
+button by mistake. Now, I don't know how to end it.
+
+=== PAGE 11 ===
+Pay What You Want (Part 1)
+3.1 Pay What You Want Part 1 Lecture
+[Lecture: Pay What You Want Part 1  Full Transcript]
+Speaker: Steve
+Pricing is the moment of truth. All marketing comes into focus in the pricing deci-
+sion.  Thomas Nagle.
+As illustrated by this quote by pricing expert Thomas Nagle, picking the right price
+is an important part of a rm's marketing strategy. If the price is too high, rms will
+lose potential sales. If it's too low, they will lose potential revenue. Thus, the key is to
+nd the price that's just right.
+The problem is, what is right for you, maybe too high or too low for me. Thus,
+allowing price to vary according to the value that a product provides to various potential
+customers makes a lot of sense.
+Firms try to do this in a number of ways. For example, in the US, movie theaters oer
+discounts to demographic groups that traditionally have lower incomes, such as students
+and senior citizens. This approach is called price segmentation, and is commonly used as
+a pricing approach. The setting of these dierent price segments have been traditionally
+determined by rms rather than by customers. For example, my local grocery store oers
+discounts on donuts that are two days old. I can't walk into the store and say that I
+wanna pay a discounted price for freshly baked donuts. That's not how it works.
+However, in recent years, a few rms have experimented with the idea of allowing
+their customers to segment themselves by letting them name their own price. This rather
+unorthodox strategy is gaining popularity, and is called pay what you want, or PWYW
+for short. Although this pricing strategy has been employed in physical stores, it is
+ideally suited for digital marketing because of the increased ability of rms to control the
+distribution of their product and to track customer payment activity. In addition, since
+the marginal cost of a digital good is close to zero, the strategy is relatively low risk.
+A wide variety of rms have experimented with a PWYW strategy, including.
+1. Radiohead. Back in 2007, the British rock band Radiohead oered its new album
+in Rainbow for sale using a PWYW strategy. This approach received worldwide
+attention and was a launching pad for the Pay What You Want movement. We'll
+discuss this example in more detail during our case discussion of this module.
+10
+
+=== PAGE 12 ===
+3.2. DEFINITION OF PAY WHAT YOU W ANT 11
+2. Headsets.com. In recent years, this online headset retailer has experimented with
+a Pay What You Want strategy as a means to rewarding customer loyalty. In these
+experiments, they showed a suggested price and found nearly all of its customers
+paid the suggested price or close to it. According to its CEO, Mike Faith, this
+strategy has resulted in a 30% increase on its return on investment.
+3. Wikipedia. If you're like most people, you have used Wikipedia for free. But did
+you ever wonder how Wikipedia makes money? Although its content is user-generated,
+Wikipedia has lots of other expenses, such as the cost of the servers, technical sup-
+port, and attorney fees. Thus, to stay in business, Wikipedia relies on a Pay What
+You Want strategy through donations to the Wikimedia Foundation and currently
+has over $225 million in assets.
+3.2 Denition of Pay What You Want
+Pay What You Want is a pricing strategy that lets customers decide how much they
+wanna pay for a particular product. Although a rm may suggest a price, its customers
+are free to pay less or more than this price. Indeed, several pay-as-you-want oerings let
+customers pay even nothing.
+3.3 Deeper Dive: Three Key Issues
+There are a lot of interesting issues about Pay What You Want. In this lecture, I will
+focus on three specic issues.
+1. Do people actually pay when they don't have to?
+According to standard economic thought, customers are seeking to maximize their utility.
+In other words, they wanna get as much as they can for as little as they have to pay.
+Thus, from a strictly economic perspective, a Pay What You Want strategy seems quite
+foolish, as rational economic actors would just take a product without paying anything
+for it.
+However, in reality, many people are not just self-interested economic actors, but also
+social well-beings who are governed by the norms of honesty and fairness. Thus, while
+some do behave as economists suggest, many don't. For example, an academic study
+on the buying behavior of customers of a Pay What You Want Restaurant in Vienna,
+Austria found that over 99% paid something for the food they ate.
+
+=== PAGE 13 ===
+3.3. DEEPER DIVE: THREE KEY ISSUES 12
+2. How can a rm make money by giving its product away for
+free?
+This is a really good question. A rm can't make money or stay in business if it continu-
+ously gives its products away for free. Fortunately, many people will pay something for a
+product even under a pay what you want strategy. Indeed, as we see it in the Radiohead
+case, under a Pay What You Want strategy, some people actually pay more than a rm
+would obtain under a typical pricing approach.
+Also, because a pay what you want strategy is novel and newsworthy, when a rm
+employs this approach, it usually gets a lot of attention. This often results in increased
+trac at a higher customer volume. For example, the US National Aquarium in Baltimore
+held a Pay What You Want Day in which patrons could set their own admission price.
+This event attracted over 7500 visitors, and raised more than $33,000. Both of these
+amounts were well over their typical level.
+3. Is this pricing strategy sustainable?
+As we will discuss shortly, the emerging academic research suggests that a Pay What
+You Want strategy is more likely to be successful if it's oered for a limited duration,
+available for only a subset of a rm's product oerings, or limited to a certain set of
+buyers. Moreover, most of the successful examples of pay what you want have employed
+pay what you want on a rather limited basis. For example, Radiohead used Pay What
+You Want during the release of one of its recent albums, but employed a more traditional
+pricing approach for its next album release. Thus, Pay What You Want appears to be
+an approach that is a good change of pace, but not sustainable as a long-term pricing
+strategy.
+Now, here's Eric to discuss some academic insights about Pay What You Want.
+
+=== PAGE 14 ===
+Pay What You Want (Part 2)
+4.1 Pay What You Want Part 2 Lecture
+[Lecture: Pay What You Want Part 2  Full Transcript]
+Speaker: Eric
+Thanks, Steve. There are a number of very interesting academic studies about pay
+what you want. I'd like to discuss two particular studies, an early one and a more recent
+one.
+Academic Insight 1: The First Academic Study on PWYW
+This rst study, conducted by a group of scholars in Germany, was their very rst aca-
+demic study on pay what you want pricing. In addition to introducing this concept and
+explaining how it works, this article contains a series of eld experiments. The researchers
+convinced three dierent businesses, two restaurants and a movie theater, to employ a
+pay what you want strategy for a period of time. They then studied the behavior of over
+600 customers across these three dierent businesses.
+The results were quite interesting. First of all, they found that everyone paid some-
+thingnone of the customers asked to be given the product or service for free, that's
+interesting. On average, the prices paid were actually about 50% lower than the prices
+typically charged by these companies. However, the average volume of sales during this
+period was about 10% higher, thus, price went down, but quantity went up. In total,
+the pay what you want strategy resulted in higher than average revenues for both restau-
+rants, but lower than average revenues for the movie theater. This article provides initial
+evidence that a pay what you want pricing strategy may actually be protable under
+certain conditions.
+Academic Insight 2: PWYW in Live Streaming
+In this more recent article, published in Marketing Science in 2021, Shijae Lu from the
+University of Notre Dame and his colleagues examine PWYW pricing in the context of
+live streaming. As you may know, live streaming is an increasingly popular way for rms
+to sell products across a growing number of countries. Live streaming shows are also a
+good example of a pay what you want approach because the host of these shows typically
+ask for tips and viewers can tip as little or as much as they want.
+Specically, these researchers were interested in understanding how the size of a live
+13
+
+=== PAGE 15 ===
+4.2. FOUR PRACTICAL RECOMMENDATIONS FOR PWYW 14
+streaming audience might aect the amount of tipping among its viewers. They examined
+this via a clever experiment in which they manipulated audience size for several dierent
+live streaming shows across China.
+The results reveal a positive relationship between audience size and average tip per
+viewer. The results of this study suggest that the presence of more viewers increases
+social image concerns, which in turn increase the amount of tipping. In sum, this research
+indicates that tactics that increase the salience of our social image how we are viewed
+by othersmay be eective in terms of enhancing the success of a pay what you want
+pricing strategy.
+Back to you, Steve.
+4.2 Four Practical Recommendations for PWYW
+Speaker: Steve
+Now that you've learned a little bit about what pay what you want is and how it
+works, here are four recommendations for putting this concept into practice.
+1. Set a Reference Price
+As we discussed earlier, most customers have a reference price in mind when evaluating
+a potential purchase. This reference price eect can also be employed in pay what you
+want pricing. One way of doing this would be to clearly display the price of a comparative
+item. For example, if a rm oers pay what you want pricing for vitamin C, it could
+announce this next to its price for vitamin D. Most people wanna think of themselves as
+fair and honest. Thus, the setting of a reference price should decrease the temptation to
+pay little or nothing for a product that employs a pay what you want strategy.
+2. Focus on Marginal Costs
+Although most customers will likely pay something even when they can name their own
+price, this is a risky strategy. Thus, pay what you want is best employed for products
+that have low marginal cost. So pay what you want is especially attractive for digital
+goods such as music, text, and video. For these type of products, each additional unit
+has a very low marginal cost. A rm can take this even one step further by pairing up
+a digital pay what you want product with a physical product that has a relatively high
+price listed. For example, as part of its pay what you want strategy, Radiohead also
+oered customers the opportunity to buy a limited edition discbox of its music for $82.
+It sold 100,000 of these disc boxes for a total of over $8 million in revenue.
+
+=== PAGE 16 ===
+4.2. FOUR PRACTICAL RECOMMENDATIONS FOR PWYW 15
+3. Try a Limited Rollout
+As discussed earlier, most successful pay what you want strategies are applied to a lim-
+ited range of a rm's product oerings or for a limited duration of time. For example,
+headsets.com employed a pay what you want strategy for only two of its several hundred
+headsets that it sells. In addition, this pricing strategy is only available to its returning
+customers. This type of limited rollout reduces the risk of a pay what you want strategy
+while maintaining its attention-getting benets.
+4. Use Charity Appeals
+Both academic research and practical experience indicate that a pay what you want
+strategy is more likely to be successful if the seller announces that some or all of the
+proceeds will be donated to charity. For example, a large portion of the appeal of Panera's
+pay what you want experiment was the fact that it was donating a substantial portion
+of the proceeds to charity. This sends a signal that the seller is generous, which will in
+turn encourage customers to exhibit generosity and then be more likely to pay a higher
+price. We all like to think of ourselves as generous people.
+Eric and I hope that you enjoyed this examination of pay what you want and this
+concept helps enrich your digital marketing toolkit.
+
+=== PAGE 17 ===
+Case Study: Panera
+5.1 Case Study: Panera Lecture
+[Case Study: Panera  Full Transcript]
+Speaker: Steve
+If you are like me, you probably enjoy eating a nice meal at a restaurant at least a
+couple times a week. It's nice not to have to cook, and visiting a restaurant can be a
+good way to spend some time with family, friends and colleagues. Now, although America
+is not very famous for its food, many of our restaurants are quite well known. Even if
+you've never been in the US, you've probably eaten an American-based restaurant chain
+such as McDonald's, Pizza Hut or Subway.
+One of my favorite restaurant chains here in the US is Panera Bread. Those of you
+who live in North America are probably familiar with this restaurant. Panera has over
+2000 locations across the US and Canada and is one of the largest bakery chains in the
+world. Here in Champaign, Illinois, we have two Panera restaurants. In addition to
+delicious breads and pastries, Panera also serves great soups, salads and sandwiches. My
+favorite Panera meal is a grilled cheese and chicken soup combo with a side of chips. It's
+simply delicious.
+The purpose of this case study is to illustrate and apply the concept of pay what you
+want pricing to an actual business.
+First, a bit of background. In addition to serving delicious food, Panera is also a
+very socially responsible company and cares a lot about its community. In order to
+give back to its community, in 2010, Panera implemented a pay what you want pricing
+strategy in one of its restaurants in St. Louis, Missouri, just down the road from here.
+It then opened four other pay what you want restaurants across America in Boston,
+Massachusetts, Dearborn, Michigan, Chicago, Illinois, and Portland, Oregon.
+Across these ve locations, Panera found that around 60% of their customers paid the
+suggested price, 20% paid less and actually 20% paid more than the suggested price. In
+total, close to 90% of their customers paid something when they could have gotten their
+food for absolutely free.
+Since Panera is a well-known restaurant, its pay what you want pricing strategy gained
+lots of attention and was viewed as a very innovative approach. For example, as shown
+in the required video, a CBS news story proclaimed that by implementing this approach,
+16
+
+=== PAGE 18 ===
+5.2. THREE KEY TAKEA W AYS 17
+Panera was a business genius.
+Despite these positive accolades, Panera was never able to expand this strategy beyond
+these initial ve stores, and by early 2019, all ve of these stores were closed.
+5.2 Three Key Takeaways
+Here's the key issue: Panera's pay what you want pricing strategy was a bold experiment
+that lasted nearly a decade and served over 2 million meals while it lasted. The assigned
+reading and video highlight a sense of what Panera was trying to accomplish with this
+initiative and how its customers responded. In brief, there are three key takeaways you
+should consider as you think about this case.
+1. Protability
+As a business, Panera seeks to make a prot or at least avoid a loss. Although most of
+Panera's customers were paying something for their food, their PWYW restaurants were
+experiencing about a 30% loss on average. Thus, this approach did not achieve long-term
+protability.
+2. Customer Response
+Panera's PWYW strategy also had some unexpected responses from their customers.
+Although Panera was very clear that this strategy was meant to help people who could
+not aord to pay a full price for their meals, a number of people who could aord simply
+chose not to. Also, their PWYW restaurants attracted a large number of homeless people,
+which resulted in a decline in the regular customer base. For example, one of its paying
+customers complained, These homeless people stink, I can't stand eating like this.
+3. Impact on Employees
+This change in Panera's customer base also had an impact on its employees. For example,
+since only ve of Panera's 2000 stores employed a PWYW strategy, customers were often
+confused by this approach and employees had to spend lots of time explaining how it
+worked. Also, many of their homeless customers were drug addicts or had some form of
+mental illness. Those employees had to engage in non-typical duties such as dealing with
+people using drugs in the bathroom.
+5.3 Case Study Questions
+I'd like you to carefully consider these issues as you evaluate the wisdom of Panera's
+pricing strategy, and I hope this helps you answer the following three questions.
+1. Was Panera's PWYW experiment a success or a failure?
+
+=== PAGE 19 ===
+5.3. CASE STUDY QUESTIONS 18
+2. Would the outcome have been dierent if Panera was selling a digital product rather
+than a physical one?
+3. How could Panera have improved its PWYW strategy? What digital tools could
+they have used to enhance its success?
+I hope you enjoyed working on this case study. I look forward to seeing your thoughts.
+Bonus fact: Panera Bread was founded back in 1987 and was initially known as the
+St. Louis Bread Company because that is where it began. It changed its name to Panera
+back in 1997 to give the brand a more global focus. In fact, the word panera is Finnish
+and means bread basket.
+Good luck with the case.
+
+=== PAGE 20 ===
+Freemium (Part 1)
+6.1 Freemium Part 1 Lecture
+[Lecture: Freemium Part 1  Full Transcript]
+Speaker: Steve
+There's no such thing as a free lunch.  Milton Friedman.
+As illustrated by this quote from the famous economist, Milton Friedman, few things
+in life are free. Instead, we usually have to pay something for the things we want and
+need. In essence, most things have a price.
+If you recall from the start of the course, the four Psproduct, promotion, place-
+ment, and priceserve as a toolbox for marketers that help them attract consumers and
+compete against competitors. Although marketers usually lump these four Ps together,
+price is very dierent than the other Ps. Specically, product, promotion, and placement
+are the ways in which rms create value for customers. In contrast, price provides a way
+for rms to capture this value in the form of nancial payment for their eorts. Thus,
+setting the right price is a critically important part of the marketing equation.
+Although the prices that marketers set may be driven by a variety of dierent ap-
+proaches, such as cost-based pricing versus competitor-based pricing, most every product
+or service charges some sort of price. In essence, the oerings provided by marketers cost
+something, they're usually not free. When's the last time that you walked into a physical
+store and walked out with a product you didn't pay for? If you did, you probably were
+breaking the law.
+Our traditional understanding of how pricing works is becoming increasingly chal-
+lenged by the rise of new digital tools. For example, platforms such as eBay ip the way
+prices are set by allowing customers to bid on the price of a product. Another intriguing
+development is the rise of the freemium model, which allows customers to access a portion
+of a product or service for free, and then pay only for any added oerings that they would
+like to have. The freemium model is quite common for smartphone apps and can also be
+found in a number of other digital domains, including software, social media sites, and
+communication platforms.
+In this video lecture, we'll take a look at how freemiums work and the potential
+advantages they oer to both rms and consumers in our new digital world.
+19
+
+=== PAGE 21 ===
+6.2. EXAMPLES OF FREEMIUM 20
+6.2 Examples of Freemium
+Here are a few examples of some familiar rms that successfully employ the freemium
+model.
+1. Dropbox
+Many of you probably have a Dropbox account. Dropbox is one of the world's leading
+le hosting platforms, with over 700 million customers across more than 200 countries.
+Dropbox provides free subscribers with two gigabytes of digital storing capacity. Once this
+limit is reached, a customer can upgrade to dierent types of premium subscriptions for a
+low monthly fee. These premium subscriptions, Dropbox Plus and Dropbox Professional,
+provide customers with at least two terabytes of storage capacity, which is a million
+times larger than a free account, as well as a variety of other features such as text search
+function and a 30-day le recovery service. Thus far, Dropbox has convinced nearly 20
+million people to become premium subscribers.
+2. LinkedIn
+LinkedIn is one of the world's leading professional networking services, and currently has
+over 800 million registered users across more than 200 countries. All LinkedIn members
+can create a digital prole, connect with other members, and contact potential employers
+or employees for free. In addition to these free services, LinkedIn also oers a variety
+of dierent premium memberships that range in price from around $30 to about $150
+a month. These various memberships are targeted to dierent segments, such as job
+seekers, hiring rms, and salespeople. These premium subscribers have access to a variety
+of additional features not available to LinkedIn's free members. For example, individuals
+who subscribe to its premium career service gain access to hiring managers and can
+compare their qualications to other applicants. Approximately 40% of LinkedIn's users
+subscribe to one of its premium services.
+3. New York Times
+The New York Times is one of America's oldest, largest, and most prestigious newspapers.
+Like most newspapers, the New York Times has been dramatically aected by the digital
+revolution and has seen the number of subscribers to its physical product decline over
+the past two decades. In response, the New York Times has created a nice online version
+of its newspaper and markets it using a freemium approach. Non-subscribers, free users,
+are allowed to access ve New York Times articles per month. If they want more than
+that, they'll have to pay for a subscription. Over the years, the New York Times has
+changed its subscription price and oers discounts to certain segments, such as college
+students. At present, readers can get unlimited access to the New York Times for about
+
+=== PAGE 22 ===
+6.3. DEFINITION OF FREEMIUM 21
+$25 a month, or less than a dollar a day. This price is quite appealing to many customers,
+and the New York Times has over 10 million paid online subscribers, which is nearly 20
+times larger than the number of subscribers to its physical newspapers.
+6.3 Denition of Freemium
+A freemium is a digital product or service that oers a set of basic features for free, but
+charges a price, usually a monthly or yearly subscription, for a set of premium features.
+In essence, a freemium combines free and premium. A freemium model can work well for
+digital products or services due to the fact that the marginal cost of adding a new user
+is close to zero.
+6.4 Deeper Dive: Three Key Observations
+There are a lot of interesting issues surrounding the concept of freemium pricing. For the
+purpose of this discussion, I plan on focusing on three key observations about this topic.
+1. 5% Rule of Thumb
+A freemium model is based on the assumption that a small percentage of paying customers
+can provide enough revenue to cover the cost of serving all of the rm's free customers.
+Thus, an important question is, what percentage of paying customers does a freemium
+business need? While the answer to this question somewhat depends on the size of the
+business's user base and its cost structure, 5% is a good rule of thumb. In general, most
+freemium platforms seem to have a conversion rate between 2% and 5%. For example,
+Dropbox appears to be within this range. However, some freemium oerings, such as
+LinkedIn, have a much higher rate of conversion.
+2. Zero Price Eect
+In order to succeed as a freemium, a business needs to strike a balance between oering
+enough free features to attract new customers while putting enough premium features
+behind a paywall in order to convert enough of these customers into paying members. If
+too many of its valuable features are free, a business runs the risk of the zero price eect.
+This occurs when the free option has provided so much value that free customers have
+little or no incentive to subscribe to a premium version. One way to reduce the risk of
+zero price eect is to allow free users to temporarily see and use the features available
+to premium subscribers. For example, at times, LinkedIn will allow free users temporary
+access to its premium levels.
+
+=== PAGE 23 ===
+6.4. DEEPER DIVE: THREE KEY OBSER V ATIONS 22
+3. Twin Roles
+We usually think of customers as providing value to a rm through their purchase activity.
+Thus, according to our traditional perspective, customers who don't pay anything are not
+worth anything. In contrast, freemium customers who don't initially pay anything provide
+value in at least two ways. First, free users can provide value by upgrading to a premium
+membership. Second, free users can provide value through positive word of mouth and
+telling others about a free oering. When we combine these twin roles, we nd that a
+free user is typically worth as much as 15% to 25% of a premium subscriber. Not too
+shabby.
+Now here's Eric to discuss some academic insights about freemium pricing.
+
+=== PAGE 24 ===
+Freemium (Part 2)
+7.1 Freemium Part 2 Lecture
+[Lecture: Freemium Part 2  Full Transcript]
+Speaker: Eric
+Thanks Steve. There are several interesting academic studies about freemium pricing.
+I'd like to share two intriguing recent studies with you.
+Academic Insight 1: Freemium Strategy in the Mobile App Market
+This 2023 Management Science article by Yiting Deng from University College London
+and her colleagues focuses on the eectiveness of freemium strategies for mobile apps.
+Specically, these scholars investigate the eect of launching a free version of an app
+upon downloads of paid versions of the same app. They do this by empirically examining
+nearly 200,000 dierent mobile gaming apps within the Apple App Store.
+The results suggest that, on average, the launch of a free version of an app has a
+positive eect upon purchase of the paid version. They suggest that this positive eect is
+due to something they call the sampling eect. In essence, by providing consumers with
+a sample of what a paid version contains, a free version of an app helps alleviate concerns
+about product quality, which in turn should enhance product adoption. The results also
+conrm that a freemium strategy is more likely to succeed when the paid version oers
+substantially more benets than the free version. In sum, these results suggest that a
+freemium strategy can indeed be an eective way to enhance product sales by providing
+consumers with the ability to sample the paid version for free.
+Academic Insight 2: Competing on Freemium with Network Ef-
+fects
+In this 2022 article, published in Strategic Management Journal , Kevin Boudreau from
+Northeastern University in Boston and his colleagues examine how a freemium pricing
+strategy impacts a rm's revenue. Specically, this article focuses on the revenue implica-
+tions for rms that are market leaders versus market followers. To empirically investigate
+this question, they examined over 33,000 mobile apps posted on the Apple App Store
+and compared the results for oerings created by market leaders versus those created by
+market followers.
+23
+
+=== PAGE 25 ===
+7.2. FOUR PRACTICAL RECOMMENDATIONS FOR FREEMIUM 24
+They nd that a freemium approach is much more eective for leaders than for fol-
+lowers. In fact, the results indicate that market leaders that employ a freemium strategy
+enjoy 55% higher revenue compared to market followers that employ the same approach.
+These researchers suggest that this dierence is largely due to the fact that market leaders
+enjoy superior network eects, in which a product is more valuable to a user as it gains
+additional users. In sum, the results of this research suggest that when network eects
+are present, a freemium strategy is likely to be more eective for rms that are market
+leaders than those that are market followers.
+Back to you, Steve.
+7.2 Four Practical Recommendations for Freemium
+Speaker: Steve
+Now that you've learned a bit about what freemium pricing is and how it works, here
+are four recommendations for putting this concept into practice.
+1. Add New Features
+The initial buyers of any new oering are typically innovators and early adopters who
+are quite dierent than later buyers. This observation is also true for freemium oerings.
+Most freemium platforms nd that it is easier to convert early free subscribers into paying
+customers than it is to convert late adopters. Thus, they need to make their oerings
+more appealing over time by adding new features. For example, when Dropbox was
+rst launched in 2008, it was essentially just a le backup service. However, over time,
+Dropbox added a variety of new features, such as the ability to share photos with others
+and the convenience of automatic photo uploading.
+2. Be Sticky
+Usually, being sticky is not a good thing. However, being sticky is a very good thing for
+freemium businesses. The more sticky they are, the harder it is for a customer to switch
+to a competitive oering. Freemium products and services can be sticky in at least two
+dierent ways. First, a freemium can be sticky due to network eects. A network eect
+occurs when the value of an oering for an existing customer increases as it gains more
+customers. For example, as a professional networking service, LinkedIn's value becomes
+higher as it expands its subscriber base, as each new subscriber is a potential network
+contact. Thus, LinkedIn gets stickier as it gains more customers. Freemium oers can
+also become sticky through switching costs, which make it dicult to leave a platform
+for another provider. For example, customers who have uploaded lots of documents on
+Dropbox would have to spend a lot of time and eort to download and upload all these
+les if they wanted to transfer to another le storage provider. Due to these switching
+
+=== PAGE 26 ===
+7.2. FOUR PRACTICAL RECOMMENDATIONS FOR FREEMIUM 25
+costs, once a customer joins a freemium platform, they're pretty much likely to stay there.
+3. Be Restrictive
+In order to successfully convert free users into paying subscribers, freemium platforms
+need to oer some benets that are restricted to only their premium members. There are
+lots of dierent types of restrictions that can be used. Two of the most common types
+are restricted capacity and restricted features. For example, as we discussed earlier,
+Dropbox restricts both capacity by limiting free users to an online storage capacity of
+only 2 gigabytes, as well as features by not allowing free users to obtain more advanced
+features like le recovery.
+4. Reduce Your Marketing Costs
+In a traditional business model, rms launch an expensive advertising campaign to raise
+awareness for their oerings and acquire new customers. A freemium model allows rms
+to greatly reduce their upfront marketing costs because the free nature of their oering is
+a low-cost and eective way to quickly acquire a large number of customers. Also, when
+we get something for free, we also tell our friends, our family, and our colleagues about
+it. So freemium platforms often obtain a high degree of positive word of mouth, which
+helps attract even more customers. Thus, rms that employ a freemium model should be
+able to spend much less upfront on marketing compared to a more traditional business.
+Eric and I hope that you enjoyed this examination of freemium pricing and that this
+concept helps enrich your digital marketing toolkit.
+
+=== PAGE 27 ===
+Exercise: It's Full of Sparks
+8.1 Exercise: It's Full of Sparks Lecture
+[Exercise: It's Full of Sparks  Full Transcript]
+Speaker: Steve
+Since you are enrolled in a digital course, I assume that you've probably played a
+game on a smartphone or tablet before. There are thousands of games available for
+downloading, and many of them employ a freemium model. Thus, I thought that mobile
+games would be a good example for this module's exercise.
+Now, most of you are probably digital natives and likely have one or more games
+already downloaded on your phone or tablet. If you don't, you can easily nd one at your
+app store. If you don't own a smartphone or tablet, that's okay. You can simply view
+the game that I explore in this video and use it to answer the questions for this exercise.
+A freemium game is one that can be downloaded for free and played for a few levels
+or for a limited time, but requires that you buy upgrades or purchase a premium version
+to gain additional features or levels. The game that I suggest you try is called It's Full
+of Sparks. This game has beautiful graphics, some clever features, and is highly rated.
+It's available on both Apple and Android phones and tablets.
+In this game you play the role of a recracker that is lit on re and will soon explode.
+The goal of the game is to progress through a series of levels to nd the Old One, a
+mythical recracker whose fuse has never been lit. The motto of the game is, When the
+spark of life is lit, the countdown begins. How true?
+Let me give you an idea of how this game is played. After downloading the game,
+you get ten recrackers for free. Each one is a dierent character. After these are gone,
+you'll have four options. Which one will you pick?
+The purpose of this exercise is to help you gain a deeper appreciation for freemium
+pricing by taking the role of a consumer who is faced with the decision of paying a
+premium for an added feature to something that is free.
+8.2 Exercise Instructions
+Here's what you need to do to complete this exercise.
+1. First, as we discussed, nd a freemium game that you'd like to download.
+26
+
+=== PAGE 28 ===
+8.3. IT'S FULL OF SPARKS ASSIGNMENT EXAMPLE 27
+2. Second, play this game and have fun.
+3. Third, take a look at the freemium options.
+4. Fourth, and nally, decide what you want to do about these various options. Do
+you wanna upgrade or keep it for free?
+Now, here's your assignment.
+1. First, please record the name of the game that you played. If you weren't able to
+download a game, you can just use It's Full of Sparks as an example.
+2. Second, what options did the game provide? Please describe the nature of the
+freemium and how much it cost.
+3. Third, did you decide to purchase the freemium? Why or why not?
+4. And fourth and nally, what did you learn about freemium pricing from this exer-
+cise?
+Finally, before you leave, let's check in with Professor Steve.
+Steve: Check out my freemium game, Dawn of Ages. Now I gotta get something to
+help me out. Yes.
+8.3 It's Full of Sparks Assignment Example
+[Assignment Submission  Student Response]
+Submitted on: April 10, 2026
+Task 1: Record the name of the game that you played.
+Student Response: It's Full of Sparks
+Task 2: What options did the game provide? Please describe the
+nature of the freemium and how much it cost.
+Student Response: The game provides ten free recrackers initially. Once they run out,
+you can wait for them to recharge, watch a video to earn more, or purchase a premium
+experience for $2.99 that removes ads and gives unlimited play.
+Task 3: Did you decide to purchase the freemium? Why or why
+not?
+Student Response: I did not purchase because the free option with occasional ads was
+sucient for my casual play. However, I was tempted after running out of recrackers
+quickly.
+
+=== PAGE 29 ===
+8.3. IT'S FULL OF SPARKS ASSIGNMENT EXAMPLE 28
+Task 4: What did you learn about freemium pricing from this
+exercise?
+Student Response: I learned that freemium works by creating enough value in the free
+version to hook users, but then restricting key features (like unlimited lives) to create a
+strong incentive to upgrade. The friction of waiting or watching ads makes the premium
+price seem reasonable.
+Rubric for All Tasks
+ 0 points: No answer, completely irrelevant answer, inadequate material, and/or
+evidence does not t the argument.
+ 1 point: Insucient response. An insucient response means that the response is
+incomplete (i.e., does not address all items in the question).
+ 2 points: Good response and meets expectations. A good response addresses all
+of the items in the question. (This is a passing response.)
+ 3 points: Excellent response and exceeds expectations. An excellent response
+is one that demonstrates originality, creative thinking, and/or references relevant
+lectures or discussion forum responses, current news, etc.
+
+=== PAGE 30 ===
+Interview with Cody Burch
+9.1 Interview: Cody Burch on Pay What You Want
+[Interview: Cody Burch  Full Transcript]
+Interviewer: Welcome to our fourth and nal expert insight. In this module, I
+interview Cody Burch. Cody is a well-known marketing strategist and the founder of
+Red Anchor Marketing. In addition, he's also an expert on the topic of pay what you
+want pricing. Welcome, Cody, thank you for joining us.
+Cody: Yeah, thanks for having me. I'm excited for this conversation. Yeah, so
+as you said, I'm a digital marketing expert and consultant. I did digital marketing for
+a company for about eleven years and became certied as best I could. There's not
+a lot of certications at the time, at least in the digital marketing expertise. And we
+were doing some consulting with speakers, authors and coaches and I was doing all of our
+digital marketing, really every discipline, from content marketing, email writing, blogging,
+funnels and lead generation and Facebook advertising, and also doing digital marketing
+for those consulting clients that we had.
+And in 2017, I decided to jump ship based on that theory that there are other people
+that could use this expertise in terms of online lead generation and sales generation, and
+started my own digital marketing agency called Red Anchor Marketing. And now I focus
+on my communities, my live events and my consulting to help people get more leads and
+sales using the power of Facebook ads and marketing and sales funnels.
+I was haunted by a friend of mine in a Facebook community who was getting thousands
+of customers. I was getting thousands of leads, he was getting thousands of customers
+using a pay what you want strategy. And he was in a really small niche. He was using
+a specic software in the music industry toI'm not a musician, so forgive my lack of
+understanding of what he was doing. But he basically had these audio templates that he
+was selling on a pay what you want model.
+I knew about this for years, I met him at several in-person events and sat with him at
+dinner one night. He was telling me all about this pay what you want thing and how he
+was getting dozens of customers a day. And so that just messed with my head for about a
+year. I thought, I've got to gure out what this looks like for my business because I only
+have a few dozen customers, meaning people who had ever just pulled out their credit
+card and paid an invoice. I didn't have hundreds of customers or thousands of customers.
+29
+
+=== PAGE 31 ===
+9.1. INTER VIEW: CODY BURCH ON PAY WHAT YOU W ANT 30
+And we all know how much more valuable a paying customer is compared to somebody
+who just gave us their email address and became a lead.
+And so it was over about that one year period, watching my friend succeed so greatly
+with the pay what you want strategy that I decided to ip it to the digital marketing side
+because I'm not a musician. And I wanted to oer digital marketing resources on the
+pay what you want model. In the summer of 2020, I had this library of funnel templates
+and I had something that people were used to paying for. So I bundled them all up and
+put 27 funnel templates for the software ClickFunnels on a pay what you want sale, and
+then it just took o.
+So I put it on sale, 27 funnel templates for $1, that was the minimum. Now with
+pay what you want, you set, typically, depending on the software you're using, you set
+the minimum that you'll accept. And based on my friend's experience, the one that was
+haunting me with his music templates, he said he even tried his. I think he went as
+down as low as zero. And he said people would literally pay zero or they'd pay a penny.
+Then you have to pay $0.30 and a processing fee to Stripe or a credit card company. He
+said the lowest he ever charged was a dollar, so let's just go for that. I'll make a dollar
+the minimumI was going to say bid, bid's not quite the right word, but the minimum
+amount that I would accept was $1. And people could put in any amount they wanted
+over that.
+And that's where it got really interesting. And I wrote down some of the numbers
+here. I sold 521 of those oers. So I went from having 60 customers to adding 521
+customers over the course of about six weeks. And even though they could put in the
+minimum of a dollar, which most did, the average order value, where they could type in
+whatever number they wanted, was $6.61. The highest anybody paid was $97. And I
+thought that was really interesting, you could've had a dollar, but he typed in 97, typed
+in his credit card or his PayPal and hit submit order. Some people paid 25, some people
+paid 50. Again, most paid the minimum, most paid a dollar.
+Which is why the next thing I want to chat with you about is so important. Because
+the point of a successful pay what you want strategy is not to just give people something
+awesome for a dollar. It's to have order bumps and upsells and pay close attention to
+your average order value. Because then you can make decisions on paid media or joint
+venture trac or other trac sources. If you know what your average order value is, you
+can more condently decide how much you want to spend to get trac on your pay what
+you want oer.
+And so we can talk about how we did that. But my average order value over those
+521 orders, my average order value was $20.73. So by the time it was all said and done
+and they were completed the checkout process, the average person on a $1 oer had spent
+$20.73.
+Yeah, the software I use to set it up is called SamCart. And that was my main reason
+
+=== PAGE 32 ===
+9.1. INTER VIEW: CODY BURCH ON PAY WHAT YOU W ANT 31
+I joined SamCart. So SamCart's an online shopping cart. It's all it does, it's not a
+landing page builder like Leadpages or ClickFunnels. Samcart only takes people's money,
+but they make it really easy. So they've got a lot of pre-designed templates. They make
+it really easy to do digital wallets as well as credit cards, as well as PayPal on the same
+order form.
+And my experience was with ClickFunnels, and in ClickFunnels you had to duplicate
+your sales page if someone wanted to use PayPal. And so that's one of the important
+lessons I learned too, is make it as easy as possible for people to check out. And so many
+people are accustomed to one-click orders from Amazon or any kind of online shopping
+cart is so clean now to have to nd your wallet or get your credit card. About half my
+orders came through PayPal, which for me, that was the rst time I was ablenow that
+I had SamCart, I was able to very easily take PayPal as a payment method.
+That's a great question. I came up with three things I think are really important.
+The rst one is to really focus hard on your rst oer. So what is the rst thing that
+people are going to want to buy? And that's your pay what you want oer. It's gotta
+be something high desire, it's gotta be something that solves a painful problem. It's got
+to be something that feels really generous and robust, where they do a double take when
+they see that they can name their price.
+The second tip is to remember that the pay what you want oer is just the starting
+point. The point of the pay what you want oer, in my case, a dollar for 27 funnel
+templates, was to get strangers to click o of Facebook, come to my sales page and give
+me their credit card. So not just their name and email address, but become a customer,
+get out your wallet or sync up your PayPal, hire me to do something. But it cost me
+between $12 and $15 to make that happen from cold trac over six weeks, that was the
+average.
+So I can't be giving away 27 templates for a dollar, I have to increase my average
+order value. And that's where order bumps and upsells come into play. If you don't know
+an order bump is something, think about maybe a stick of gum you're going to check out
+at the grocery store. On the way out they say, do you also want this? You're already
+buying something, did you also want to add this to your order? Or it's like biggie sizing
+your value meal at a fast food restaurant. So 35% of people, in my case, took the order
+bumpone over one out of threeand it generated two thirds of the revenue. So wrap
+your head around that math, that's how important the order bump is on a pay what you
+want oer.
+And the last thing I would say to people running an oer like this is to test and
+measure. So test dierent oers, test dierent price points, test dierent upsells, test
+dierent order bumps, and pay close attention to the data.
+I love marketing, I'm a complete nerd about just trying anything. I'll try anything
+twice. If I try it once and it fails, I'll try it one more time and see if I can make it work.
+
+=== PAGE 33 ===
+9.1. INTER VIEW: CODY BURCH ON PAY WHAT YOU W ANT 32
+And that's led to me doing things like this pay what you want oer, which took me a few
+attempts to get it right. Everything from hosting live events, in-person events, virtual
+events. I've tried webinars and summits and ve day challenges and free stu and paid
+stu and high end stu, and it's been a lot of fun.
+So I would recommend anybody that hasespecially a digital resource, especially
+something like a template or something that's high value that people are accustomed to
+paying forI recommend you try it out, try a pay what you want oer. You don't have
+to be beholden to it for the rest of your life, but it's something that is worth testing and
+worth trying. Like anything good with marketing, you never know what's under that
+rock.
+Yeah, I live in Colorado Springs, Colorado. People can nd out more about me on
+my website, codyburch.com. And I've got lots of free stu on the website, as usual, the
+book is a digital resource for free. If you go to onehourfunnel.com, there's also free mini
+courses around digital marketing, setting up your ad account, helping people get the rst
+step, and getting that rst win at onehourfunnel.com.
+
+=== PAGE 34 ===
+Course Farewell
+10.1 Course Farewell Lecture
+[Lecture: Course Farewell  Full Transcript]
+Speakers: Steve and Eric
+This concludes our course on marketing in a digital world. We hope that you learned
+some new concepts, acquired some new tools, and heard some new stories.
+More importantly, we hope this course provided you with some new insights about
+how new digital tools like the Internet, smartphone, and 3D printer are changing the
+marketing landscape.
+To wrap up, here are four key lessons from this course.
+1. Marketing is a process of value exchange that is facilitated by the four Ps: product,
+promotion, placement, and price.
+2. The tools employed in enacting the four Ps are increasingly becoming digital and
+also democratized across a large number of consumers.
+3. These changes are shifting the balance of power from rms to consumers.
+4. As a result, rms are losing control over the marketing mix and consumers are
+taking on a more active and expansive role in these marketing activities.
+The remaining courses in our digital marketing specialization will examine this new
+digital world in more detail.
+The next course in our specialization, Digital Marketing Analytics, will introduce you
+to the art and science of data analytics. This course will provide the foundation that you
+need to apply analytics to a wide variety of digital marketing challenges.
+Thank you for participating in this course, we hope that you enjoy the rest of our
+specialization.
+Thank you, everybody.
+33
+
+=== PAGE 35 ===
+Quiz Questions and Answers
+11.1 Quiz: Price Overview
+Question 1: Academic research suggests that for many product categories, customers
+have relatively high level of price knowledge.
+Options: True False
+Answer: False
+Explanation: Research shows that fewer than half of supermarket shoppers knew the
+exact price of items they placed in their carts. Consumers have low exact price recall but
+good recognition of approximate price ranges.
+Question 2: Which of the following are commonly used pricing strategies?
+Options: Value-based pricing Competitor-based pricing Cost-plus pricing All
+of the above
+Answer: All of the above
+Explanation: The lecture identies three common strategies: cost-based (cost-plus),
+competitor-based, and value-based pricing.
+11.2 Quiz: Pay What You Want
+Question 1: Price is determined by the value a product or service delivers to various
+potential customers.
+Options: True False
+Answer: True
+Explanation: This reects the logic of value-based pricing and the idea that the right
+price varies by customer, which underpins the Pay What You Want concept.
+Question 2: Which of the following practices are useful in implementing a Pay What
+You Want strategy?
+Options: Setting a reference price Employing charity appeals Focusing on marginal
+cost All of the above
+Answer: All of the above
+Explanation: The four practical recommendations for PWYW include setting a ref-
+erence price, focusing on low marginal-cost goods, trying a limited rollout, and using
+charity appeals. All listed are explicitly recommended.
+34
+
+=== PAGE 36 ===
+11.3. QUIZ: FREEMIUM 35
+11.3 Quiz: Freemium
+Question 1: The Freemium business model is based on which of the following ideas?
+Options: Creating a platform that will benet only limited number of premium users
+Providing users with free services and products Delivering as many free features as
+possible to users Oering a set of basic features for free but charges a price for premium
+features.
+Answer: Oering a set of basic features for free but charges a price for premium
+features.
+Explanation: The denition states that a freemium combines free basic features with
+a paid premium tier.
+Question 2: Which of the types of perceived values is directly associated with cus-
+tomers' intent to upgrade from a free subscription to a premium subscription?
+Options: Quality Economic value Social value Enjoyment
+Answer: Economic value
+Explanation: Based on the Hamari et al. (2019) reading on freemium games, economic
+value (perceived value for money) is a key driver of premium purchase intentions, though
+enjoyment also plays a role; among the options, economic value is the most directly tied
+to the upgrade decision in freemium research.
+11.4 Quiz: It's Full of Sparks Exercise
+Question 1: According to the It's Full of Sparks exercise video, which of the following
+statement about Freemium Games is CORRECT?
+Options: Freemium games usually have add-on items you have to pay later on.
+Freemium games cost a small fee to download Freemium games can be only found
+on Android devices.
+Answer: Freemium games usually have add-on items you have to pay later on.
+Explanation: Freemium games are free to download but include optional in-app pur-
+chases for upgrades or additional content.
+Question 2: According to the It's Full of Sparks exercise video, how many free
+recrackers do you get initially in the It's Full of Sparks game?
+Options: 10 8 5 1
+Answer: 10
+Question 3: In It's Full of Sparks game, how many recrackers do you receive by
+watching a short video?
+Options: 8 10 1 5
+Answer: 1
+Question 4: Removing ads is usually a reason for upgrade in freemium games.
+
+=== PAGE 37 ===
+11.5. MODULE 4 COMPREHENSIVE QUIZ 36
+Options: True False
+Answer: True
+Question 5: In It's Full of Sparks game, how much does it cost for the premium
+experience?
+Options: $2.99 It's completely free. $0.99 $1.99
+Answer: $2.99
+Question 6: What did you learn about the freemium pricing?
+Sample Answer: Freemium pricing works by oering a free core experience to build
+a user base, then creating strong incentives (removing ads, unlocking unlimited play) to
+convert engaged users into paying customers. It lowers the barrier to entry while still
+generating revenue from a fraction of users.
+11.5 Module 4 Comprehensive Quiz
+Question 1: Which one of these is NOT one of the pricing concepts mentioned in the
+course?
+Options: Price elasticity Price fairness Reference prices Break-even analysis
+Answer: Price fairness
+Explanation: The lecture lists breakeven analysis, price elasticity, and reference pric-
+ing as key concepts. Price fairness is not explicitly introduced as a core concept in this
+module.
+Question 2: Making a right pricing decision for a rm is crucial because:
+Options: It provides a rm with a sustainable competitive advantage It aects a
+rm's protability It helps the rm be unique It creates value for customers
+Answer: It aects a rm's protability
+Explanation: The lecture emphasizes that price captures value and is critical for
+protability and survival.
+Question 3: Which of these factors should rms consider when setting a price?
+Options: Cost of production Customer's willingness to pay Price of competing
+products All of the above
+Answer: All of the above
+Question 4: What is the primary reason that the Freemium model is more benecial
+when it is applied to digital products or services?
+Options: The fact that the marginal cost of adding a new user is close to zero makes
+it more eective It is true because Freemium's free options provide consumers with so
+much value that they do not have to purchase the premium version Economic value has
+a direct positive association with the intention to purchase premium oerings Because
+the 5% Rule of Thumb applies to those products
+Answer: The fact that the marginal cost of adding a new user is close to zero makes
+
+=== PAGE 38 ===
+11.5. MODULE 4 COMPREHENSIVE QUIZ 37
+it more eective
+Explanation: Digital goods have near-zero marginal cost, making it economically
+feasible to serve many free users while converting a small percentage to paid plans.
+Question 5: Freemium models are commonly employed in which of the following
+categories?
+Options: Smartphone apps Social media and communication platforms Software
+All of the above
+Answer: All of the above
+Question 6: What happens if a rm sets its prices too high?
+Options: The rm may lose potential revenue The rm may lose potential sales
+The rm will be less protable All of the above
+Answer: The rm may lose potential sales
+Explanation: The lecture states: If the price is too high, rms will lose potential
+sales. While other outcomes can occur, the direct statement from the lecture focuses on
+lost sales.
+Question 7: Pay what you want (PWYW) strategy is a good way to maximize a
+rm's prot.
+Options: True False
+Answer: False
+Explanation: PWYW is risky and not typically sustainable for long-term prot max-
+imization; it often results in lower prices and is best used in limited, strategic ways.
+Question 8: Which statement about Pay What You Want (PWYW) pricing strategy
+below is CORRECT?
+Options: This pricing strategy is considered sustainable and many rms may benet
+from using it. A rm using PWYW strategy will set a reference and a minimum
+required price and customers are free to pay more than those prices. In this strategy,
+a rm may suggest a price. However, customers can get the product at any price they
+wish, even at no cost. In this strategy, customers will receive a product or service as
+long as they pay something.
+Answer: In this strategy, a rm may suggest a price. However, customers can get
+the product at any price they wish, even at no cost.
+Explanation: The denition states that customers are free to pay less or more than a
+suggested price, and some oerings allow payment of nothing.
+Question 9: What are the possible ways for Freemium model businesses to convert
+their Free subscribers into Premium subscribers?
+Options: Freemium platforms should oer more benets to their premium mem-
+bers They need to keep adding new features to make their oerings more appealing
+Freemium businesses need to be sticky to make it dicult for customers to switch to
+competitors All of the above
+
+=== PAGE 39 ===
+11.5. MODULE 4 COMPREHENSIVE QUIZ 38
+Answer: All of the above
+Question 10: According to the reading, Gu, X., Kannan, P. K., & Ma, L. (2019).
+How companies can get the most out of a freemium business model. Harvard Business Re-
+view, how does a rm implement Versioning strategy in the Software-as-a-Service (SaaS)
+space?
+Options: By encouraging the Free Mentality of customers to deliver more quality
+benets and features to them By extending the premium product lines according to
+customer behavior and their response, to elevate their willingness to pay for premium
+oerings By upgrading the product constantly and increasing the number of free of-
+ferings to receive more positive feedback By creating customer enjoyment to capture
+more value for the rm
+Answer: By extending the premium product lines according to customer behavior
+and their response, to elevate their willingness to pay for premium oerings
+Explanation: The HBR article discusses versioning as creating multiple tiers (includ-
+ing free, basic, premium) based on customer needs and willingness to pay, not simply
+adding more free oerings.
+END OF MODULE 4 COMPLETE NOTES
+
